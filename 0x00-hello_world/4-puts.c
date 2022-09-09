@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - Outputs a sentence
+ * main - Prints a sentence
 ( *
- *Description:Uses the function puts() to print a line)?
- *Return value: Returns value 0
+ *Description:Uses the function puts to print a line)?
+ *Return: Returns a value of 0
  */
 int main(void)
 {
