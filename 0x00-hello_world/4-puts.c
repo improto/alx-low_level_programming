@@ -2,9 +2,8 @@
 /**
  * main - Outputs a sentence
 ( *
-
- *Description:Uses the function puts() to print a line?
- *Return value: Returns a value of 0
+ *Description:Uses the function puts() to print a line)?
+ *Return value: Returns value 0
  */
 int main(void)
 {
