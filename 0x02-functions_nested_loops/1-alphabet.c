@@ -1,14 +1,14 @@
 #include "main.h"
 /**
- * print_alphabet - Prints lowercase alphabet letters using func putchar once
+ *print_alphabet - Prints the alphabet in lowercase using putchar only once
  *
  *
- * Return: Always 0
+ *Return: Always zero
  */
 void print_alphabet(void)
 {
 char c;
-for (c = 'a'; c<='z'; c++)
+for (c = 'a'; c <= 'z'; c++)
 {
 _putchar(c);
 }
