@@ -1,1 +1,1 @@
-Started Learning C
+Learning pointers, arrays and srtrings
