@@ -1,1 +1,1 @@
-Learning pointers, arrays and srtrings
+Advanced C
