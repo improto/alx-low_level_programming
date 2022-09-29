@@ -14,4 +14,4 @@ int is_prime_number(int n);
 
 int _putchar(char c);
 
-
+int _check_palindrome(int r, int l, char *p);
